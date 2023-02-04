@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">N4TO desenvolvimento</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="navegacao_titulo">N4TO Desenvolvimento Mobile</string>
+    <string name="navegacao_email">sergio.n4todev@gmail.com</string>
+    <string name="menu_Principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_Contato">Fale Conosco</string>
+    <string name="contato">Fale Conosco</string>
+    <string name="menu_sobre">Sobre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ferramentas_e_tecnologias_de_desenvolvimento_mobile">Ferramentas e tecnologias de desenvolvimento mobile</string>
+    <string name="eu_sou_um_estudante_apaixonado_por_desenvolvimento_de_aplicativos_mobile_meus_conhecimentos_est_o_voltados_para_o_desenvolvimento_nativo_para_android_eu_sempre_busco_me_atualizar_e_aprender_mais_sobre_as_tecnologias_que_est_o_em_alta_no_mercado_minha_meta_conseguir_um_trabalho_na_rea_para_colaborar_com_o_crescimento_da_empresa_e_ao_mesmo_tempo_agregar_meus_conhecimentos_e_crescer_profissionalmente_acredito_que_com_dedica_o_e_aprendizado_constante_poss_vel_alcan_ar_qualquer_objetivo">Eu sou um estudante apaixonado por desenvolvimento de aplicativos mobile, meus conhecimentos estão voltados para o desenvolvimento nativo para android, eu sempre busco me atualizar e aprender mais sobre as tecnologias que estão em alta no mercado, minha meta é conseguir um trabalho na área para colaborar com o crescimento da empresa e ao mesmo tempo agregar meus conhecimentos e crescer profissionalmente, acredito que com dedicação e aprendizado constante é possível alcançar qualquer objetivo.</string>
+    <string name="qualifica_es_para_desenvolvimento">Qualificações para desenvolvimento</string>
+    <string name="linguagens_java_kotlin_banco_de_dados_firebase_sqlite_frameworks_android_studio_inteligjig_ferramentas_de_controle_de_vers_o_git_github_eu_tenho_experi_ncia_em_trabalhar_com_essas_tecnologias_e_as_uso_para_criar_aplicativos_robustos_e_de_alta_qualidade_para_dispositivos_m_veis_al_m_disso_eu_utilizo_git_e_github_para_gerenciar_e_compartilhar_meus_projetos_possibilitando_a_colabora_o_de_desenvolvedores_de_diferentes_lugares_e_possibilitando_o_controle_de_vers_o_de_meus_projetos_eu_tenho_uma_boa_compreens_o_de_como_essas_tecnologias_funcionam_juntas_e_sei_como_us_las_de_forma_eficaz_para_atender_s_necessidades_do_projeto_e_do_cliente_estou_sempre_buscando_me_atualizar_e_aprender_mais_sobre_as_novas_tecnologias_que_est_o_surgindo_no_mercado_para_poder_oferecer_sempre_o_melhor_para_meus_clientes">Linguagens: Java Kotlin Banco de Dados: Firebase SQLite Frameworks: Android Studio Inteligjig Ferramentas de Controle de Versão: Git GitHub Eu tenho experiência em trabalhar com essas tecnologias, e as uso para criar aplicativos robustos e de alta qualidade para dispositivos móveis. Além disso, eu utilizo Git e GitHub para gerenciar e compartilhar meus projetos, possibilitando a colaboração de desenvolvedores de diferentes lugares e possibilitando o controle de versão de meus projetos. Eu tenho uma boa compreensão de como essas tecnologias funcionam juntas e sei como usá-las de forma eficaz para atender às necessidades do projeto e do cliente. Estou sempre buscando me atualizar e aprender mais sobre as novas tecnologias que estão surgindo no mercado para poder oferecer sempre o melhor para meus clientes.</string>
+    <string name="linguagens_java_kotlin_banco_de_dados_firebase_sqlite_frameworks_android_studio_inteligjig_ferramentas_de_controle_de_vers_o_git_github">Linguagens: Java Kotlin Banco de Dados: Firebase SQLite Frameworks: Android Studio Inteligjig Ferramentas de Controle de Versão: Git GitHub</string>
+    <string name="linguagens">Linguagens:</string>
+    <string name="kotlin">kotlin</string>
+    <string name="java">java</string>
+    <string name="banco_de_dados">Banco de dados:</string>
+    <string name="firebase">FireBase</string>
+    <string name="sqlite">SQLite</string>
+    <string name="controle_de_vers_o">Controle de Versão:</string>
+    <string name="frameworks">Frameworks:</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="git">GIT</string>
+    <string name="github">GitHub</string>
+    <string name="as_empresas_a_seguir_s_o_empresas_com_presta_es_de_servi_os_fict_cios_em_contrapartida_s_o_empresas_que_me_inspiram_de_certa_forma">As empresas a seguir são empresas com prestações de serviços fictícios, em contrapartida, são empresas que me inspiram de certa forma.</string>
+    <string name="banco_next">Banco Next</string>
+    <string name="natura">Natura</string>
+    <string name="nubank">Nubank</string>
+    <string name="picpay">PicPay</string>
+    <string name="mercado_livre">Mercado Livre</string>
+    <string name="havan">Havan</string>
+    <string name="ita">Itaú</string>
+    <string name="clientes">Clientes</string>
+    <string name="via_varejo">Via Varejo</string>
+    <string name="bot_o_para_enviar_email">Botão para enviar email</string>
+    <string name="bot_o_para_fazer_liga_o">Botão para fazer ligação</string>
+    <string name="bot_o_para_enviar_um_email">Botão para enviar um Email</string>
+</resources>
